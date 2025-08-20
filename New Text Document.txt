@@ -1,3 +1,3 @@
 
-Learning git with gitbash with remote
+Learning git with gitbash
 
